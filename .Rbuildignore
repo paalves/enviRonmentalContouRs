@@ -1,2 +1,8 @@
 ^enviRonmentalContouRs\.Rproj$
 ^\.Rproj\.user$
+^.*\.Rproj$
+^README\.Rmd$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^codecov\.yml$

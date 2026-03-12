@@ -1,0 +1,1 @@
+## doc. il faudra recréer ce fichier avec use_package_doc(open = rlang::is_interactive())
