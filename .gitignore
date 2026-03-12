@@ -1,2 +1,4 @@
 00_init.R
+00_create_pkg.R
 .Renviron
+.Rproj.user
